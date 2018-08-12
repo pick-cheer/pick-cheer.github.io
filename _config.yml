@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Pick-Cheer | Pick-Cheer's blog
+description: "간단한 개인 프로젝트 공유 및 기타 관심 분야 기술 블로그."
+url: "https://pick-cheer.github.io"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Dae seok, Yoo"
+  email: "lagnarok82@naver.com"
+  url: "https://pick-cheer.github.io"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
